@@ -1,0 +1,1 @@
+SPRITE witch "witch.png" 5 4 0
