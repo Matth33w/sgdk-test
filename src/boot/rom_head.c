@@ -7,9 +7,9 @@ const ROMHeader rom_header = {
 #else
     "SEGA MEGA DRIVE ",
 #endif
-    "(C)SGDK 2021    ",
-    "SAMPLE PROGRAM                                  ",
-    "SAMPLE PROGRAM                                  ",
+    "(C)MATTH33W 2023",
+    "KANE TV - WITCH TEST                            ",
+    "KANE TV - WITCH TEST                            ",
     "GM 00000000-00",
     0x000,
     "JD              ",
@@ -26,6 +26,6 @@ const ROMHeader rom_header = {
     0x00200000,
     0x0020FFFF,
     "            ",
-    "DEMONSTRATION PROGRAM                   ",
+    "KANE TV - WITCH TEST                    ",
     "JUE             "
 };

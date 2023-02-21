@@ -1,0 +1,1 @@
+C:/SGDK/bin/make -f C:/SGDK/makefile.gen
